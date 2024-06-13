@@ -19,7 +19,8 @@ SELECT * FROM TABLE 1
 WHERE CONDITION = MET
 
 ```
-![](Folasade.jpg)
+![](Fola.JPG)
+
 
 |Name|Employee_ID|Gender|Occupation|
 |----|-----------|------|----------|
